@@ -22,3 +22,6 @@ ________________________________________________________________________________
 
 4. MongoDB and Flask Application
 * Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
+____________________________________________________________________________________________________________________________________________________________________
+### Screenshot of HTML page
+![html_page_picture](screenshots/screen_shot1.png)
