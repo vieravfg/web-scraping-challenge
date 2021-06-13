@@ -1,8 +1,8 @@
 # Web Scraping Homework - Mission to Mars
 ### Shortcuts
-The Jupyter Notebook
-Screenshots of your final application.
-HTML template [index.html](templates/index.html)
+* Jupyter Notebook
+* Screenshots of final application.
+* HTML template [index.html](templates/index.html)
 ### Instructions
 1. Scraping NASA Mars News
 * Scrape the [Mars News Site](https://redplanetscience.com/) and collect the latest News Title and Paragraph Text. Assign the text to variables that you can reference later.
