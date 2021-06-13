@@ -1,7 +1,7 @@
 # Web Scraping Homework - Mission to Mars
 ### File Shortcuts
 * Jupyter Notebook: [mission_to_mars.ipynb](mission_to_mars.ipynb)
-* Screenshots of final application 
+* Screenshots of final application: [](screenshots/screen_shot1) 
 * HTML template: [index.html](templates/index.html)
 ____________________________________________________________________________________________________________________________________________________________________
 ### Instructions
