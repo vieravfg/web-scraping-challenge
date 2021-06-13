@@ -1,8 +1,8 @@
 # Web Scraping Homework - Mission to Mars
 ### Shortcuts
-* Jupyter Notebook (mission_to_mars.ipynb)
+* Jupyter Notebook: [mission_to_mars.ipynb](mission_to_mars.ipynb)
 * Screenshots of final application 
-* HTML template [index.html](templates/index.html)
+* HTML template: [index.html](templates/index.html)
 ____________________________________________________________________________________________________________________________________________________________________
 ### Instructions
 1. Scraping NASA Mars News
