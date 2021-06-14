@@ -11,7 +11,7 @@
 
 <body>
   <div class="container-fluid">
-    <div class="jumbotron text-center">
+    <div class="jumbotron text-center" style="background-color: rgb(213, 223, 223)">
       <h1>Mission to Mars</h1>
       <p><a class="btn btn-info btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
     </div>
@@ -40,7 +40,7 @@
             <div class = "row text-left">
               {% for hemisphere in mars.mars_hemispheres %}
                   <div class = "col-md-3 col-sm-6">   
-                    <div class = "well">      
+                    <div class = "well"  style="background-color: rgb(213, 223, 223)">      
                       <img src="{{hemisphere.img_url}}" width="100%">
                       <h3>{{hemisphere.title}}</h3>  
                     </div>    
