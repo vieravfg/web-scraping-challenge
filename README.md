@@ -1,7 +1,7 @@
 # Web Scraping Homework - Mission to Mars
 ### File Shortcuts
 * Jupyter Notebook: [mission_to_mars.ipynb](mission_to_mars.ipynb)
-* Screenshots of final application: [full](screenshots/screen_shot1.png), [app.py](screenshots/screen_shot2.png)
+* Screenshots of final application: [full](screenshots/screen_shot.png), [app.py](screenshots/screen_shot2.png)
 * HTML template: [index.html](templates/index.html)
 ____________________________________________________________________________________________________________________________________________________________________
 ### Instructions
@@ -24,4 +24,4 @@ ________________________________________________________________________________
 * Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
 ____________________________________________________________________________________________________________________________________________________________________
 ### Screenshot of HTML page
-![html_page_picture](screenshots/screen_shot1.png)
+![html_page_picture](screenshots/screen_shot.png)
